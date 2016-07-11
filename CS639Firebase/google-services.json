@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "934104258342",
+    "firebase_url": "https://cs639firebase-3ee0c.firebaseio.com",
+    "project_id": "cs639firebase-3ee0c",
+    "storage_bucket": "cs639firebase-3ee0c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934104258342:android:0e8c8777ceabb528",
+        "android_client_info": {
+          "package_name": "com.ronyalvarez.cs639firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "934104258342-lq73h2ta7bbu23ur611jd4cjodabjl2d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJMptaXz3W7hxM0Cc_0gXQ3x3t20eAf_w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
